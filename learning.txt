@@ -9,3 +9,12 @@ Code Architectures
 - Factory design pattern
 
 How MVC Architecture Works ( Done )
+
+- Project Structure of MVC ( Done)
+
+- Steps to initial the project ( Done)
+
+1- npm init --y
+2- npm i express
+
+- What is Nodemon ( Done)
