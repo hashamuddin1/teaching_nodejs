@@ -1,0 +1,11 @@
+Frameworks of Nodejs
+- Express.js
+- Nest.js
+- Fastify
+
+Code Architectures
+- MVC (Model View Controller)
+- On demand Architecture
+- Factory design pattern
+
+How MVC Architecture Works ( Done )
