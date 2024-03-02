@@ -18,3 +18,6 @@ How MVC Architecture Works ( Done )
 2- npm i express
 
 - What is Nodemon ( Done)
+- What is env file ( Environmental file ) // npm i dotenv ( Done )
+
+- nodemon only works when .js file saved
