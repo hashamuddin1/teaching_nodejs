@@ -20,4 +20,18 @@ How MVC Architecture Works ( Done )
 - What is Nodemon ( Done)
 - What is env file ( Environmental file ) // npm i dotenv ( Done )
 
-- nodemon only works when .js file saved
+- nodemon only works when .js file saved ( Done )
+
+
+- Why we use return statemnt in API? ( Done )
+- API Tab tak chalti hay jab tak usko res.send na mil jay (Done)
+- Why bydefault req.body is null or undefined? (Done)
+
+- How to Create Mongo DB Database? (Done)
+- Connection with Mongo DB Database. ( Done )
+- How to Create Tables in Mongo DB Database? (Done)
+
+
+
+TASK
+- Create Mongo DB Databse
