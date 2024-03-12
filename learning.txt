@@ -34,4 +34,9 @@ How MVC Architecture Works ( Done )
 
 
 TASK
-- Create Mongo DB Databse
+- Create Mongo DB Database
+
+- What is environmental variable in postman and why we use it? ( Done )
+- How to Create Environmental Variable in Postman. ( Done )
+- How to Create Table in mongoose. ( Done)
+- CRUD API ( Create, Read, Update, Delete)
